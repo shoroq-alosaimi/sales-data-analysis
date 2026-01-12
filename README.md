@@ -1,26 +1,28 @@
-# Sales Data Analysis Project 
+Sales Data Analysis Project 📊
 
-## Project Overview
-This project focuses on analyzing sales data to extract meaningful insights
-that support business decision-making.
+In this project, I analyzed sales data using Excel and SQL to extract insights that support business decision-making.
 
-## Tools Used
-- Excel (Data Cleaning & Pivot Tables)
-- SQL (Data Extraction & Analysis)
-- Python (Pandas, Matplotlib)
-- Power BI (Dashboard)
+The analysis involved data cleaning and preparation in Excel, mapping product categories using SQL, and performing analytical queries such as total sales, number of orders, sales trends, and category-based performance.
 
-## Key Analysis
-- Total Sales by Category
-- Sales Trend Over Time
-- Average Order Value
-- Top Performing Regions
+For data visualization, I developed interactive dashboards using Tableau and Excel.
+In addition, I used Power BI for data modeling, building analytical measures, and creating a structured dashboard.
 
-## Dataset
-The dataset contains sales transactions including date, category, region,
-quantity, and revenue.
+Within Power BI, the work included:
+- Data modeling and relationships
+- DAX measures using CALCULATE
+- Time Intelligence analysis (date-based insights)
+- Dashboard development
+- Visual design enhancement and storytelling
 
-## Output
-- Interactive Power BI Dashboard
-- SQL Queries
-- Python Analysis Notebook
+📌 Tools Used:
+- Excel (Data Cleaning, Analysis, Dashboards)
+- SQL (Data Preparation and Analysis Queries)
+- Tableau (Interactive Dashboards)
+- Power BI (Data Modeling, DAX, Time Intelligence, Dashboard Design)
+
+📊 Deliverables:
+- SQL queries file
+- Cleaned Excel dataset
+- Tableau dashboard screenshots
+- Excel dashboard screenshots
+- Power BI dashboard images
